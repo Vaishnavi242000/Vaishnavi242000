@@ -19,6 +19,8 @@ I work at the intersection of **bioinformatics, machine learning, and computatio
 <img src="Bioinformatics.jpeg" width="600"/>
 
 </td>
+</tr>
+</table>
 
 ---
 
