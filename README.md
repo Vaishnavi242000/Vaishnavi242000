@@ -1,6 +1,8 @@
 # Hi 👋, I'm Vaishnavi Bhamre
 
-<div align="center">
+<table>
+<tr>
+<td>
 
 ### Bioinformatics | Machine Learning | Multi-Omics | Drug Discovery
 
@@ -11,8 +13,14 @@ I work at the intersection of **bioinformatics, machine learning, and computatio
 
 🌐 **LinkedIn:** [linkedin.com/in/vaishnavi-bhamre](https://linkedin.com/in/vaishnavi-bhamre)
 
-</div>
+</td>
+<td>
 
+<img src="Bioinformatics.jpeg" width="400"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🔬 Research Interests
