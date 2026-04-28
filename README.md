@@ -14,13 +14,12 @@ I work at the intersection of **bioinformatics, machine learning, and computatio
 🌐 **LinkedIn:** [linkedin.com/in/vaishnavi-bhamre](https://linkedin.com/in/vaishnavi-bhamre)
 
 </td>
-<td>
+<td align="center" width="40%">
 
-<img src="Bioinformatics.jpeg" width="400"/>
+<img src="Bioinformatics.jpeg" width="600"/>
 
 </td>
-</tr>
-</table>
+
 ---
 
 ## 🔬 Research Interests
