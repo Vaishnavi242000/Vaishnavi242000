@@ -54,7 +54,7 @@ Fully containerized (Docker + QIIME2) metagenomics pipeline: DADA2 denoising, MA
 ## 📜 Publications & Highlights
 
 - 🏆 **SAC-ACCP International Conference (2023)** — Presented research on Solid Lipid Nanoparticles for targeted Nateglinide delivery to 100+ pharmaceutical professionals
-- 💊 **Quality Control Analyst @ KTF Pharmaceuticals** — Standardized SOPs improving documentation accuracy by 30% and reducing cycle time by 15%
+- 💊 **Co-authored "Current and Emerging Therapies for Type II Diabetes Mellitus"** — peer-reviewed article synthesizing disease mechanisms, pharmacology, and therapeutic data; demonstrates scientific communication and analytical depth 
 
 ---
 
