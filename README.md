@@ -70,4 +70,12 @@ Fully containerized (Docker + QIIME2) metagenomics pipeline: DADA2 denoising, MA
 ## 📫 Get in Touch
 
 - 📧 bhamre.v@northeastern.edu
+- 📧 bhamrevaishnaviboston@gmail.com
 - 📍 Boston, MA
+  
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-bhamre)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaishnavi242000)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhamre.v@northeastern.edu)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8088-3097)
