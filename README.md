@@ -80,8 +80,10 @@ Fully containerized (Docker + QIIME2) metagenomics pipeline: DADA2 denoising, MA
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhamre.v@northeastern.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8088-3097)
 
-## ## 🐍 Slithering Through My Commits
+</table>
+---
 
+## 🐍 Slithering Through My Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnavi242000/Vaishnavi242000/output/github-contribution-grid-snake-dark.svg">
