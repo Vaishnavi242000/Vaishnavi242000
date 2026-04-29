@@ -31,6 +31,8 @@ I work at the intersection of **bioinformatics, machine learning, and computatio
 - ML models for clinical & biomedical prediction
 - Gut microbiome & metabolic disease
 - AI-driven drug target identification & nanoparticle delivery
+- - Behavioral neuroscience & neural circuit analysis
+- Neurodegenerative disease genomics (Alzheimer's & Parkinson's) — multi-omics approaches to uncover molecular mechanisms and therapeutic targets
 
 ---
 
